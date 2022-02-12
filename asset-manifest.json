@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react_responsive_navigation_project/static/css/main.45f68404.css",
+    "main.js": "/react_responsive_navigation_project/static/js/main.db5f55bd.js",
+    "static/media/bg.jpg": "/react_responsive_navigation_project/static/media/bg.22201a99e8bcb08db19e.jpg",
+    "index.html": "/react_responsive_navigation_project/index.html",
+    "main.45f68404.css.map": "/react_responsive_navigation_project/static/css/main.45f68404.css.map",
+    "main.db5f55bd.js.map": "/react_responsive_navigation_project/static/js/main.db5f55bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45f68404.css",
+    "static/js/main.db5f55bd.js"
+  ]
+}
